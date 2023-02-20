@@ -1,11 +1,11 @@
 # about me
 
-likes: premier league, twitch chat/emotes, ssbm, chess
+likes: premier league, twitch chat/emotes, ssbm, chess, historical fiction, fantasy books (stormlight archive, asoiaf)
 
 # recent projects
 
 ## KEKW.pro
-My most recent pet project is kekw.pro: a web app that lets you see what bttv/7tv emotes are being used in many twitch chats all on one nice page. Users can authenticate via twitch oauth so they get a page customized with their followed users.
+My most recent pet project is kekw.pro: a web app that lets you see what bttv/7tv emotes are being used in many twitch chats all on one nice page. Users can authenticate via twitch oauth so they get a page customized with their followed users. I used the [svelte](https://svelte.dev) framework for the first time and really like it.
 
 [Check it out here](https://kekw-pro.vercel.app)
 
@@ -24,20 +24,20 @@ My most recent pet project is kekw.pro: a web app that lets you see what bttv/7t
 
 ## ml / optimization / simulation
  
-<a href="https://github.com/kweithers/reinforcement-learning-framework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=reinforcement-learning-framework" />
-</a>
-<a href="https://github.com/kweithers/geology">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=geology" />
-</a>
 <a href="https://github.com/kweithers/fuzzy-matching-emnist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=fuzzy-matching-emnist" />
+</a>
+<a href="https://github.com/kweithers/mlb-fanduel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=mlb-fanduel" />
 </a>
 <a href="https://github.com/kweithers/eliminator-challenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=eliminator-challenge" />
 </a>
-<a href="https://github.com/kweithers/mlb-fanduel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=mlb-fanduel" />
+<a href="https://github.com/kweithers/geology">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=geology" />
+</a>
+<a href="https://github.com/kweithers/reinforcement-learning-framework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=reinforcement-learning-framework" />
 </a>
 <a href="https://github.com/kweithers/hearthstone-packs-simulation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=hearthstone-packs-simulation" />
