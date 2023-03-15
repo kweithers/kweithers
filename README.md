@@ -1,15 +1,15 @@
 # about me
 
-likes: premier league, twitch chat/emotes, ssbm, chess, historical fiction, fantasy books (stormlight archive, asoiaf)
+likes: premier league, twitch, chess
 
-# recent projects
+# projects
 
 ## KEKW.pro
-My most recent pet project is kekw.pro: a web app that lets you see what bttv/7tv emotes are being used in many twitch chats all on one nice page. Users can authenticate via twitch oauth so they get a page customized with their followed users. I used the [svelte](https://svelte.dev) framework for the first time and really like it.
+A [Svelte](https://svelte.dev) app that lets you see what bttv/7tv emotes are being used in many twitch chats all on one page. Users can authenticate via twitch oauth for a page with their followed users.
 
 [Check it out here](https://kekw-pro.vercel.app)
 
-## twitch stuff
+## more twitch stuff
 
 <a href="https://github.com/kweithers/petrosian-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=petrosian-bot" />
