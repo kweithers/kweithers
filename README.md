@@ -44,6 +44,7 @@ A [Svelte](https://svelte.dev) app that lets you see what bttv/7tv emotes are be
 </a>
 
 ## masters program stuff
+
 <a href="https://github.com/kweithers/parallel-nlp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=parallel-nlp" />
 </a>
@@ -57,11 +58,14 @@ A [Svelte](https://svelte.dev) app that lets you see what bttv/7tv emotes are be
 
 ## advent of code
 
-<a href="https://github.com/kweithers/advent2020">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=advent2020" />
+<a href="https://github.com/kweithers/advent2022">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=advent2022" />
 </a>
 <a href="https://github.com/kweithers/advent2021">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=advent2021" />
+</a>
+<a href="https://github.com/kweithers/advent2020">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=advent2020" />
 </a>
 <a href="https://github.com/kweithers/advent2018">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=advent2018" />
