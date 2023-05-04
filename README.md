@@ -4,12 +4,13 @@ likes: premier league, twitch, chess
 
 # projects
 
-## KEKW.pro
+## twitch stuff
+
+### Better Front Page
 A [Svelte](https://svelte.dev) app deployed with [Vercel](https://vercel.com) that lets users see what bttv/7tv emotes are being used in many twitch chats all on one page. Users can authenticate via twitch oauth for a page with their followed users.
 
 [Check it out here](https://kekw-pro.vercel.app)
 
-## more twitch stuff
 
 <a href="https://github.com/kweithers/kekw-pro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=kekw-pro" />
