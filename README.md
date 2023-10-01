@@ -80,9 +80,9 @@ A [Svelte](https://svelte.dev) app deployed with [Vercel](https://vercel.com) th
 
 <div style="display:flex;">
 
-  <a href="https://lichess.org/d1V5Yxob"> <img style="padding:25px" src="https://lichess1.org/game/export/gif/white/d1V5Yxob.gif?theme=green-plastic&piece=alpha" width=350 height=397> </a>
+  <a href="https://lichess.org/d1V5Yxob"> <img style="padding:10px" src="https://lichess1.org/game/export/gif/white/d1V5Yxob.gif?theme=green-plastic&piece=alpha" width=300 height=350> </a>
 
-  <a href="https://lichess.org/dpjnbeSW"> <img style="padding:25px" src="https://lichess1.org/game/export/gif/black/dpjnbeSW.gif?theme=green-plastic&piece=alpha" width=350 height=397> </a>
+  <a href="https://lichess.org/dpjnbeSW"> <img style="padding:10px" src="https://lichess1.org/game/export/gif/black/dpjnbeSW.gif?theme=green-plastic&piece=alpha" width=300 height=350> </a>
 
 </div>
 
