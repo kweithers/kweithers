@@ -76,4 +76,13 @@ A [Svelte](https://svelte.dev) app deployed with [Vercel](https://vercel.com) th
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=huffman-coding" />
 </a>
 
+## some recent chess
+
+<div style="display:flex;">
+
+  <a href="https://lichess.org/d1V5Yxob"> <img style="padding:25px" src="https://lichess1.org/game/export/gif/white/d1V5Yxob.gif?theme=green-plastic&piece=alpha" width=350 height=397> </a>
+
+  <a href="https://lichess.org/dpjnbeSW"> <img style="padding:25px" src="https://lichess1.org/game/export/gif/black/dpjnbeSW.gif?theme=green-plastic&piece=alpha" width=350 height=397> </a>
+
+</div>
 
