@@ -48,6 +48,9 @@ A [Svelte](https://svelte.dev) app deployed with [Vercel](https://vercel.com) th
 
 ## advent of code
 
+<a href="https://github.com/kweithers/advent2023">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=advent2023" />
+</a>
 <a href="https://github.com/kweithers/advent2022">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=advent2022" />
 </a>
