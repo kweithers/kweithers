@@ -46,19 +46,22 @@ A [Svelte](https://svelte.dev) app deployed with [Vercel](https://vercel.com) th
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=hearthstone-packs-simulation" />
 </a>
 
-## advent of code
+## advent of code (in order of completion date)
 
+<a href="https://github.com/kweithers/advent2015">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=advent2015" />
+</a>
 <a href="https://github.com/kweithers/advent2023">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=advent2023" />
 </a>
 <a href="https://github.com/kweithers/advent2022">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=advent2022" />
 </a>
-<a href="https://github.com/kweithers/advent2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=advent2021" />
-</a>
 <a href="https://github.com/kweithers/advent2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=advent2020" />
+</a>
+<a href="https://github.com/kweithers/advent2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=advent2021" />
 </a>
 <a href="https://github.com/kweithers/advent2018">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=advent2018" />
