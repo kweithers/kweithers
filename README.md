@@ -4,34 +4,20 @@ likes: premier league, twitch, chess
 
 # projects
 
-## twitch stuff
-
-### Better Front Page
-A [Svelte](https://svelte.dev) app deployed with [Vercel](https://vercel.com) that lets users see what bttv/7tv emotes are being used in many twitch chats all on one page. Users can authenticate via twitch oauth for a page with their followed users.
-
-[Check it out here](https://better-front-page.vercel.app)
-
-
-<a href="https://github.com/kweithers/better-front-page">
-  <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=better-front-page" />
-</a>
-<a href="https://github.com/kweithers/petrosian-bot">
-  <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=petrosian-bot" />
-</a>
-<a href="https://github.com/kweithers/twitch-emotes-tracker">
-  <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=twitch-emotes-tracker" />
-</a>
-<a href="https://github.com/kweithers/twitch-right-now">
-  <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=twitch-right-now" />
-</a>
-
 ## ml / optimization / simulation
- 
-<a href="https://github.com/kweithers/fuzzy-matching-emnist">
-  <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=fuzzy-matching-emnist" />
+
+### Flip 7
+Reinforcement learning agents (q-learning and proximal policy optimization) that play the push-your-luck card game [Flip 7](https://boardgamegeek.com/boardgame/420087/flip-7).
+
+[Check it out here](https://flip7-beta.vercel.app/)
+
+<a href="https://github.com/kweithers/flip7">
+  <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=flip7" />
 </a>
 <a href="https://github.com/kweithers/mlb-fanduel">
   <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=mlb-fanduel" />
+</a><a href="https://github.com/kweithers/fuzzy-matching-emnist">
+  <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=fuzzy-matching-emnist" />
 </a>
 <a href="https://github.com/kweithers/eliminator-challenge">
   <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=eliminator-challenge" />
@@ -44,6 +30,26 @@ A [Svelte](https://svelte.dev) app deployed with [Vercel](https://vercel.com) th
 </a>
 <a href="https://github.com/kweithers/hearthstone-packs-simulation">
   <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=hearthstone-packs-simulation" />
+</a>
+
+## twitch stuff
+
+### Better Front Page
+A [Svelte](https://svelte.dev) app deployed with [Vercel](https://vercel.com) that lets users see what bttv/7tv emotes are being used in many twitch chats all on one page. Users can authenticate via twitch oauth for a page with their followed users.
+
+[Check it out here](https://better-front-page.vercel.app)
+
+<a href="https://github.com/kweithers/better-front-page">
+  <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=better-front-page" />
+</a>
+<a href="https://github.com/kweithers/petrosian-bot">
+  <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=petrosian-bot" />
+</a>
+<a href="https://github.com/kweithers/twitch-emotes-tracker">
+  <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=twitch-emotes-tracker" />
+</a>
+<a href="https://github.com/kweithers/twitch-right-now">
+  <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=twitch-right-now" />
 </a>
 
 ## advent of code (in order of completion date)
