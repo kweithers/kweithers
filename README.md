@@ -9,7 +9,7 @@ likes: premier league, twitch, chess
 ### Flip 7
 Reinforcement learning agents (q-learning and proximal policy optimization) that play the push-your-luck card game [Flip 7](https://boardgamegeek.com/boardgame/420087/flip-7).
 
-[Check it out here](https://flip7-beta.vercel.app/)
+[Play against them here](https://flip7-beta.vercel.app/)
 
 <a href="https://github.com/kweithers/flip7">
   <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=flip7" />
@@ -32,7 +32,7 @@ Reinforcement learning agents (q-learning and proximal policy optimization) that
   <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=hearthstone-packs-simulation" />
 </a>
 
-## twitch stuff
+## twitch / chess stuff
 
 ### Better Front Page
 A [Svelte](https://svelte.dev) app deployed with [Vercel](https://vercel.com) that lets users see what bttv/7tv emotes are being used in many twitch chats all on one page. Users can authenticate via twitch oauth for a page with their followed users.
@@ -41,6 +41,9 @@ A [Svelte](https://svelte.dev) app deployed with [Vercel](https://vercel.com) th
 
 <a href="https://github.com/kweithers/better-front-page">
   <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=better-front-page" />
+</a>
+<a href="https://github.com/kweithers/gens-una">
+  <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=gens-una" />
 </a>
 <a href="https://github.com/kweithers/petrosian-bot">
   <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=petrosian-bot" />
