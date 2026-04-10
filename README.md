@@ -4,12 +4,22 @@ likes: premier league, twitch, chess
 
 # projects
 
-## ml / optimization / simulation
-
 ### Flip 7
 Reinforcement learning agents (q-learning and proximal policy optimization) that play the push-your-luck card game [Flip 7](https://boardgamegeek.com/boardgame/420087/flip-7).
 
 [Play against them here](https://flip7-beta.vercel.app/)
+
+### Football Weekend
+Uses Gemini to rank the most exciting European football matches this week so you can plan your football watching.
+
+[Check it out here](https://football-weekend.vercel.app)
+
+### Better Front Page
+See what bttv/7tv emotes are being used across many Twitch chats on one page. Authenticate via Twitch OAuth to filter for your followed streamers.
+
+[Check it out here](https://better-front-page.vercel.app)
+
+## ml / optimization / simulation
 
 <a href="https://github.com/kweithers/flip7">
   <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=flip7" />
@@ -32,13 +42,11 @@ Reinforcement learning agents (q-learning and proximal policy optimization) that
   <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=hearthstone-packs-simulation" />
 </a>
 
-## twitch / chess stuff
+## chess / soccer / twitch stuff
 
-### Better Front Page
-A [Svelte](https://svelte.dev) app deployed with [Vercel](https://vercel.com) that lets users see what bttv/7tv emotes are being used in many twitch chats all on one page. Users can authenticate via twitch oauth for a page with their followed users.
-
-[Check it out here](https://better-front-page.vercel.app)
-
+<a href="https://github.com/kweithers/football-weekend">
+  <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=football-weekend" />
+</a>
 <a href="https://github.com/kweithers/better-front-page">
   <img align="center" src="https://github-readme-stats-kweithers-projects.vercel.app/api/pin/?theme=gotham&username=kweithers&repo=better-front-page" />
 </a>
