@@ -19,6 +19,11 @@ See what bttv/7tv emotes are being used across many Twitch chats on one page. Au
 
 [Check it out here](https://better-front-page.vercel.app)
 
+### Lichess Chat Translator
+Translates Lichess chat messages in real time — both incoming opponent messages and your outgoing replies — using Chrome's built-in Translator API.
+
+[Download it from the Chrome Web Store here](https://chromewebstore.google.com/detail/lichess-chat-translator/dfagbfiahnpeffjjmclpdfnfbgombkfd)
+
 ## ml / optimization / simulation
 
 <a href="https://github.com/kweithers/flip7">
